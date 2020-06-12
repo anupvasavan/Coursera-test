@@ -6,7 +6,11 @@
 	font-size: 2em;
 }
 .navbar-nav .nav-item .nav-link{
-	color: #ffea00
+	color: #ffea00;
+	text-align: center;
+}
+.navbar-nav .nav-item{
+	border: 2px solid white;
 }
 
 h1{
